@@ -372,3 +372,6 @@ ul li::marker {
   color: #090a0c;
   font-size: 15px;
 }
+.footer img{
+  width: 50px;
+}
