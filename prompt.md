@@ -1,1 +1,1 @@
-Create a beautiful blog section for my website which contain four blog in two columns and it will be related to dev conference. Only use html and css.(chatgpt)
+create a website section which section must stay relevant to the DevConf 2026 theme (e.g. Sponsors, Venue, FAQ, Newsletter Signup, Hackathon Details, Past Highlights, Job Board, etc.). Only use html and css.(chatgpt)
