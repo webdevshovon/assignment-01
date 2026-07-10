@@ -1,0 +1,1 @@
+Create a beautiful blog section for my website which contain four blog in two columns and it will be related to dev conference. Only use html and css.(chatgpt)
